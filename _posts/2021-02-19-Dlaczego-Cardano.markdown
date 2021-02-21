@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Dlaczego Cardano?"
 date:   2021-02-19 22:34:17 +0000
 categories: jekyll update
 ---
