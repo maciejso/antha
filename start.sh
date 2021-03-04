@@ -1,1 +1,1 @@
-bundler exec jekyll serve --livereload --watch
+bundler exec jekyll serve --livereload
