@@ -2844,7 +2844,7 @@ table.alt tbody tr td {
 }
 
 .features > li:nth-child(1) {
-  background-color: rgba(0, 0, 0, 0.035);
+  background-color: rgba(0, 0, 0, 0.14);
 }
 
 .features > li:nth-child(2) {
