@@ -3441,7 +3441,7 @@ body {
   -ms-align-items: center;
   align-items: center;
   padding: 4em 0 2em 0;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../../images/banner.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../../images/mainimage.jpg');
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
