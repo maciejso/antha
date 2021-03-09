@@ -3628,8 +3628,9 @@ body {
 }
 
 #banner p {
-  font-size: 1.25em;
+  font-size: 1.65em;
   margin-bottom: 1.75em;
+  font-weight: 900;
 }
 
 #banner .button {
