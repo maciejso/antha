@@ -5,7 +5,9 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-    {% include analytics.html %}
+    {% if siste.google_analytics and jekyll.environment == "production" %}
+      {% include analytics.html %}
+    {%endif %}
 	</head>
 	<body class="is-preload">
 
@@ -44,7 +46,7 @@
 						<div class="content">
 							<span class="icon solid major fa-code"></span>
 							<h3 class="major">We believe that money does not have an intrinsic value</h3>
-							<p>Even cryptocurrencies do not have an intrinsic value as
+							<p>Even cryptocurrencies do not have an intrinsic value
                 as the ultimate value of money is means of exchange by providing store of value.</p>
 							<ul class="actions">
 								<li><a href="#" class="button">Details</a></li>
